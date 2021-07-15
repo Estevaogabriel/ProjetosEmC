@@ -1,0 +1,16 @@
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.csproj.AssemblyReference.cache
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.AssemblyInfoInputs.cache
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.AssemblyInfo.cs
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.csproj.CoreCompileInputs.cache
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\Exercícios com While.exe
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\Exercícios com While.deps.json
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\Exercícios com While.runtimeconfig.json
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\Exercícios com While.runtimeconfig.dev.json
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\Exercícios com While.dll
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\ref\Exercícios com While.dll
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\bin\Debug\net5.0\Exercícios com While.pdb
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.dll
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\ref\Exercícios com While.dll
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.pdb
+C:\Users\EST\Downloads\Programação\Projetos\Exercícios com While\Exercícios com While\obj\Debug\net5.0\Exercícios com While.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.csproj.AssemblyReference.cache
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.AssemblyInfoInputs.cache
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.AssemblyInfo.cs
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\Aula Condicionais.exe
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\Aula Condicionais.deps.json
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\Aula Condicionais.runtimeconfig.json
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\Aula Condicionais.runtimeconfig.dev.json
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\Aula Condicionais.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\ref\Aula Condicionais.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\bin\Debug\net5.0\Aula Condicionais.pdb
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\ref\Aula Condicionais.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.pdb
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Aula Condicionais\Aula Condicionais\obj\Debug\net5.0\Aula Condicionais.genruntimeconfig.cache

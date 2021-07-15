@@ -1,0 +1,4 @@
+﻿Build iniciado...
+1>------ Compilação iniciada: Projeto: Entradas de Dados, Configuração: Debug Any CPU ------
+1>Entradas de Dados -> C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.dll
+========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========

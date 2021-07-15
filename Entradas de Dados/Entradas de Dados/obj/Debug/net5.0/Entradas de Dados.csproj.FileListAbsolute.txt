@@ -1,0 +1,16 @@
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.exe
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.deps.json
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.runtimeconfig.json
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.runtimeconfig.dev.json
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\ref\Entradas de Dados.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\bin\Debug\net5.0\Entradas de Dados.pdb
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.csproj.AssemblyReference.cache
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.AssemblyInfoInputs.cache
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.AssemblyInfo.cs
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.csproj.CoreCompileInputs.cache
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\ref\Entradas de Dados.dll
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.pdb
+C:\Users\EST\Downloads\Programação\Curso C#\Projetos de Estudo\Entradas de Dados\Entradas de Dados\obj\Debug\net5.0\Entradas de Dados.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ExerciciosderepeticaoFOR.exe
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ExerciciosderepeticaoFOR.deps.json
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ExerciciosderepeticaoFOR.runtimeconfig.json
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ExerciciosderepeticaoFOR.runtimeconfig.dev.json
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ExerciciosderepeticaoFOR.dll
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ref\ExerciciosderepeticaoFOR.dll
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\bin\Debug\net5.0\ExerciciosderepeticaoFOR.pdb
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.csproj.AssemblyReference.cache
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.AssemblyInfoInputs.cache
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.AssemblyInfo.cs
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.csproj.CoreCompileInputs.cache
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.dll
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ref\ExerciciosderepeticaoFOR.dll
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.pdb
+C:\Users\EST\Downloads\Programação\Projetos\ExerciciosderepeticaoFOR\ExerciciosderepeticaoFOR\obj\Debug\net5.0\ExerciciosderepeticaoFOR.genruntimeconfig.cache
